@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: nguyenloc2004
 - Repo bài nộp (URL): https://github.com/nguyenloc2004/K5-L23-DAY08-2A202603313-NguyenHuuLoc-AIPrelabel
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): 248b58f
 - Máy: Windows 11, GPU GTX 1650 4 GB nhưng chạy model trên CPU (torch 2.15.0+cpu, conda env lab-vin, Python 3.11)
 - CVAT (Docker): v2.81.0
 
