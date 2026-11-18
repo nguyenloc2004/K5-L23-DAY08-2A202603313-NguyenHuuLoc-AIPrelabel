@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,2A202603313,
+img_006.jpg,,khong,2A202603313,
+img_014.jpg,141,sai_vi_tri_kich_thuoc,2A202603313,"person: box kéo quá rộng"
+img_031.jpg,441,sai_lop,2A202603313,"gán sai lớp, đúng phải là person"
+img_035.jpg,,khong,2A202603313,
